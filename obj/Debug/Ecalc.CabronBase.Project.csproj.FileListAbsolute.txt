@@ -1,0 +1,5 @@
+D:\Desenvolvimento\Ecalc\Ecalc.CabronBase.Project\bin\Debug\Ecalc.CabronBase.Project.dll
+D:\Desenvolvimento\Ecalc\Ecalc.CabronBase.Project\bin\Debug\Ecalc.CabronBase.Project.pdb
+D:\Desenvolvimento\Ecalc\Ecalc.CabronBase.Project\obj\Debug\Ecalc.CabronBase.Project.csproj.CoreCompileInputs.cache
+D:\Desenvolvimento\Ecalc\Ecalc.CabronBase.Project\obj\Debug\Ecalc.CabronBase.Project.dll
+D:\Desenvolvimento\Ecalc\Ecalc.CabronBase.Project\obj\Debug\Ecalc.CabronBase.Project.pdb
